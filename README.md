@@ -11,7 +11,7 @@ description du comit avec des informations sur l'evolution du projet
 # envoyer un nouveau commit a distance 
 ```
 git add .
-git commit add "un commmantaire"
+git commit add "un bon commmantaire"
 git push origin main
 ```
 
