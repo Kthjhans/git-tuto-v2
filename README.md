@@ -14,3 +14,9 @@ git add .
 git commit add "message"
 git push origin main
 ```
+
+# creation d'une nouvelle branch
+```
+git checkout -b nom_de_la_branch
+
+```
